@@ -1,0 +1,114 @@
+body{
+    background-color: gainsboro;
+}
+
+.up{
+    background-color: #ff7700;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    margin-bottom: 20px;
+    width: auto;
+}
+
+.up > p{
+    font-weight: 10;
+}
+
+.up > h1{
+    font-weight: 900;
+}
+
+.intro{
+    background-color: white ;
+    margin-bottom: 20px;
+    padding: 20px;
+    width: 1000px;
+    border-radius: 10px;
+    margin-left: 300px;
+}
+
+
+
+.join{
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 20px;
+    width: 1000px;
+    border-radius: 10px;
+    margin-left: 300px;
+}
+
+.join > .name{
+    margin-top: 10px;
+    background-color: gainsboro;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 10px;
+    
+}
+.join > .name > button{
+    margin-bottom: 15px;
+}
+
+.join > .school{
+    background-color: gainsboro;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.join > .school > button{
+    margin-bottom: 15px;
+}
+
+
+.join > .team{
+    background-color: gainsboro;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.join > .team > button {
+    margin-bottom: 15px;
+}
+
+.join > .check{
+    background-color: gainsboro;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.join > .check > button{
+    margin-bottom: 15px;
+}
+
+.join > .final{
+    background-color: #ff7700;
+    color: white;
+    padding: 1px;
+    text-align: center;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.intro > img{
+    width: 1000px;
+    height: 600px;
+}
+.intro > .link {
+ 
+    padding-left: 440px;
+}
+
+.join > .check > input{
+    margin-bottom : 15px;
+}
+
+.intro > button{ 
+    margin-bottom: 10px;
+}
+
+.intro > img{
+    margin-bottom: 10px;
+}
+
