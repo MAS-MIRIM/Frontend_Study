@@ -1,0 +1,126 @@
+body {
+    background-color: #F2F2F2;
+}
+
+h4 {
+    display: inline-block;
+    color: #FF7700;
+    background-color: #ffe4cb;
+    padding: 5px 10px 5px 10px;
+    margin: 10px 980px 10px 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.header {
+    background-color: #FF7700;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin: 0;
+}
+
+.information {
+    background-color: white;
+    padding: 10px;
+    padding-bottom: 40px;
+    margin: 10px 200px 10px 200px;
+    border-radius: 10px;
+}
+.information img {
+    border-radius: 10px;
+    margin-left: 12px;
+}
+.information span{
+    display: inline-block;
+    text-align: left;
+}
+.bold{
+    text-align: center;
+    background-color: #F2F2F2;
+    color: #6F6F6F;
+    border-radius: 10px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.information a{
+    color: #FF7700;
+    margin: 10px;
+}
+.atag{
+    margin-left: 450px;
+}
+.apply {
+    background-color: white;
+    padding: 10px;
+    margin: 10px 200px 10px 200px;
+    border-radius: 10px;
+}
+
+.apply p {
+    display: inline-block;
+    background-color: #e6e6e6;
+    color: #6F6F6F;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 15px 0px 25px 0px;
+}
+
+.apply input {
+    border-radius: 5px;
+    padding: 10px;
+    border: 2px solid #e6e6e6;
+}
+
+.name {
+    background-color: #F2F2F2;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px 10px 20px 10px;
+    border: 2px solid #e6e6e6;
+}
+
+.school {
+    background-color: #F2F2F2;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px 10px 20px 10px;
+    border: 2px solid #e6e6e6;
+}
+
+.teamname {
+    background-color: #F2F2F2;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px 10px 20px 10px;
+    border: 2px solid #e6e6e6;
+}
+
+.checkbox {
+    background-color: #F2F2F2;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px 10px 20px 10px;
+    border: 2px solid #e6e6e6;
+}
+
+.apply button {
+    text-align: center;
+    background-color: #FF7700;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 507px 10px 507px;
+    margin: 10px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border: none;
+    cursor: pointer;
+}
