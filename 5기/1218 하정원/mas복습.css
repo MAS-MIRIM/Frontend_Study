@@ -1,0 +1,56 @@
+body {
+    background-color: gray;
+    
+}
+
+.one {
+    text-align: center;
+    color:white;
+    margin-left:300px;
+    margin-right:300px;
+    border-radius: 15px;
+    background-color: orange;
+    padding: 10px;
+    text-align: center;
+}
+.one h1 {
+    margin-bottom: 5px;
+}
+.spen {
+    color:orange;
+}
+.photo {
+    background-color:white;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom:25px;
+    padding-top:25px;
+    text-align: center;
+    border-radius: 15px;
+
+    
+}
+.photo img {
+    width: 250px;
+    border-radius: 15px;
+
+}
+.photo button {
+    border-radius: 200px;
+    padding:9px;
+    padding-left: 17px;
+    padding-right:17px;
+    background-color: white;
+}
+.three {
+    background-color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding:22px;
+    border-radius: 15px;
+    
+}
+.three button {
+    margin-bottom: 11px;
+}
+

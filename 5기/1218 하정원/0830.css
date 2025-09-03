@@ -1,0 +1,130 @@
+body {
+    margin: 0;   
+    padding: 0;
+    background-color: gray;
+    
+}
+.one {
+    background-color: #ff7700;
+    padding: 1px;
+    color: white;
+    text-align: center;
+}
+.p1 {
+    background-color: navajowhite;
+    width: 75px;
+    height: 29px;
+    color: #ff7700;
+    border-radius: 8px;
+}
+.two {
+    background-color: white;
+    margin-left: 300px;
+    margin-right: 300px;   
+    padding: 8px;
+    border-radius: 8px;
+}
+.two div {
+    text-align: center;
+}
+.two img{
+    border-radius: 8px;
+}
+.a1 {
+    text-align: center;
+    color:#ff7700;
+    padding-bottom: 10px;
+}
+.three {
+    background-color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 8px;
+    padding: 10px;
+}
+.aa {
+    background-color: aliceblue;
+    padding:25px;
+    border-radius: 8px;
+}
+.bb {
+    background-color: aliceblue;
+    padding:25px;
+    border-radius: 8px;
+}
+.cc {
+    background-color: aliceblue;
+    padding:25px;
+    border-radius: 8px;
+}
+.dd {
+    background-color: aliceblue;
+    padding:25px;
+    border-radius: 8px;
+}
+.button {
+    background-color: #ff7700;
+    border-radius: 8px;
+    text-align: center;
+    color:white;
+    padding:5px;
+    width:900px;
+    border:none;
+}
+.p2 {
+    background-color: navajowhite;
+    width: 75px;
+    height: 20px;
+    
+    color: #ff7700;
+    padding:8px;
+    border-radius: 8px;
+    text-align: center;
+}
+.name {
+    background-color: beige;
+    padding:7px;
+    border-radius: 7px;
+}
+.name2 {
+    background-color: beige;
+    padding:7px;
+    border-radius: 7px;
+}
+.name3 {
+    background-color: beige;
+    padding:7px;
+    border-radius: 7px;
+}
+.aa input {
+    border-radius: 4px;
+}
+.bb input {
+    border-radius: 4px;
+}
+.cc input {
+    border-radius: 4px;
+}
+.dd input {
+    border-radius: 4px;
+}
+.span1 {
+    background-color: beige;
+    padding:5px;
+    border-radius: 7px;
+}
+.span2 {
+    background-color: beige;
+    padding:5px;
+    border-radius: 7px;
+}
+.span3 {
+    background-color: beige;
+    padding:5px;
+    border-radius: 7px;
+}
+.span4 {
+    background-color: beige;
+    padding:5px;
+    border-radius: 7px;
+}
