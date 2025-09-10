@@ -1,0 +1,32 @@
+body {
+    background-color: #3834349e;
+}
+.introduce {
+    text-align: center;
+}
+.introduce h2{
+    color: aquamarine;
+}
+#main-title {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    
+}
+div {
+ background-color: #ffffff;
+ margin-bottom: 20px;
+ margin-left: 20px;
+ margin-right: 300px;
+ padding: 10px;
+ border-radius:20px;
+ margin-top: 20px;
+}
+.introduce img {
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+}
+
+
+
+
